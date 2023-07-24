@@ -1,4 +1,4 @@
-from lib.test_functions.check_codeword import *
+from lib.lib_functions.check_codeword import *
 
 def test():
     result1 = check_codeword("horse")

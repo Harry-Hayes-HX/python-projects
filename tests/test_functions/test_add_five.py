@@ -1,4 +1,4 @@
-from lib.test_functions.add_five import *
+from lib.lib_functions.add_five import *
 
 def test_add_five_returns_eight_for_three():
     result = add_five(3)
